@@ -1,0 +1,15 @@
+[submodule "enrollment-service"]
+	path = enrollment-service
+	url = https://github.com/axvg/lms-enrollment-service.git
+[submodule "payment-service"]
+	path = payment-service
+	url = https://github.com/axvg/lms-payment-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/axvg/lms-notification-service.git
+[submodule "course-service"]
+	path = course-service
+	url = https://github.com/axvg/lms-course-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/axvg/lms-user-service.git
